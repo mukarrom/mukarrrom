@@ -24,7 +24,7 @@ const Skills = () => {
               </svg>
             </div>
             <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-              <h2 class="text-gray-900 text-lg title-font font-medium mb-2  font-bold">
+              <h2 class="text-gray-900 text-lg title-font font-medium mb-2  font-bold text-primary">
                 Full Stack Web Development.
               </h2>
               <p class="leading-relaxed text-base">
@@ -34,7 +34,7 @@ const Skills = () => {
           </div>
           <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
             <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-              <h2 class="text-gray-900 text-lg title-font font-medium mb-2 font-bold">
+              <h2 class="text-gray-900 text-lg title-font font-medium mb-2 font-bold text-primary">
                 Programming Language Skills
               </h2>
               <p class="leading-relaxed text-base">
@@ -72,7 +72,7 @@ const Skills = () => {
               </svg>
             </div>
             <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-              <h2 class="text-gray-900 text-lg title-font font-medium mb-2  font-bold">
+              <h2 class="text-gray-900 text-lg title-font font-medium mb-2  font-bold text-primary">
                 Frameworks and Libraries
               </h2>
               <p class="leading-relaxed text-base">
@@ -82,11 +82,17 @@ const Skills = () => {
           </div>
           <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
             <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-              <h2 class="text-gray-900 text-lg title-font font-medium mb-2 font-bold">
-                Tools, Components and Hooks
+              <h2 class="text-gray-900 text-lg title-font font-medium mb-2 font-bold text-primary">
+                Tools, Components and Deploys
               </h2>
               <p class="leading-relaxed text-base">
-                Tailwind components: <strong>Daisy UI</strong>, <strong>Tailblock</strong>, <strong>Tailwind UI</strong>, <strong>tailwind components</strong> etc.
+                <strong>Tools:</strong> Firebase Authentication, Email Js, React hook form, React Query etc.
+              </p>
+              <p class="leading-relaxed text-base">
+                <strong>Tailwind components:</strong> Daisy UI, Tailblock, Tailwind UI, Tailwind Components etc.
+              </p>
+              <p class="leading-relaxed text-base">
+                <strong>Deploys:</strong> Github, Netlify, Firebase and Heroku.
               </p>
             </div>
             <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 flex-shrink-0">
@@ -106,7 +112,7 @@ const Skills = () => {
             </div>
           </div>
           <button class="flex mx-auto mt-20 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-            Button
+            More..
           </button>
         </div>
       </section>

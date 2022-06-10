@@ -11,7 +11,7 @@ const Header = () => {
             <span className="text-primary">Mukarrom Hosain</span>
           </h1>
           <h4 class="title-font sm:text-2xl text-xl mb-4 font-medium text-gray-900">
-            Frontend Web Developer
+            Full Stack Web Developer
           </h4>
           <div class="flex justify-center">
             <a
